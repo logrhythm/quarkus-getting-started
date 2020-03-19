@@ -1,4 +1,8 @@
-# quarkus-getting-started project
+LogRhythm Next Gen POC
+
+Hello World POC including technologies:- Java, Quarkus, Graal VM, Postgres integration & gRPC Call.
+
+# quarkus-getting-started project created by Ankit Jha
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
